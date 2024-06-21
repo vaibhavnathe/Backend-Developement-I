@@ -1,0 +1,8 @@
+step 1 : create new folder run commands
+step 2 : move to folder
+step 3 : npm init -y  => npm init is a command-line instruction used to create a package. json file for a Node. js package.
+                        The package. json file stores metadata and dependencies for your package, 
+                        allowing you to easily manage and share your project with others.
+step 4 : open in vs code
+step 5 : npm i express
+step 6 : create server.js
